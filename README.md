@@ -8,6 +8,6 @@ The game screen is  set to 600x300. A rectangle to represent the bottle was used
 
 It has two versions:human mode and random action. Random action mode can be used to train a reinforcement learning agent.
 
-Set the mode in game_settings.py as 'human' or 'ai'.
+Set the mode in game_settings.py as 'human' or 'auto'.
 
-Run 'random action.py' or 'human mode'. 
+Run 'random_action.py' or 'human_mode.py'. 
